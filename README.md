@@ -16,13 +16,13 @@ option level, and years since last promotion.
 Workforce profile analysis by age group, gender, department, 
 and education field.
 
-![Employee Demographics](images/employee_demographics.png)
+![Employee Demographics](HR2.png)
 
 ### 3. Satisfaction & Risk Factors
 Combined risk score model, environment satisfaction, job 
 involvement, and estimated attrition cost analysis.
 
-![Satisfaction & Risk Factors](images/satisfaction_risk.png)
+![Satisfaction & Risk Factors](HR3.png)
 
 ## Key Features
 
