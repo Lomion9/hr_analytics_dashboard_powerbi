@@ -4,6 +4,8 @@ Bu proje, IBM HR Analytics veri seti kullanılarak hazırlanmış
 çok sayfalı bir Power BI raporudur. Temel amaç, çalışan kaybını 
 (attrition) analiz etmek ve yüksek riskli çalışanları belirlemektir.
 
+📄 [Click here for English README](README.md)
+
 ## Sayfalar
 
 ### 1. Attrition Overview
