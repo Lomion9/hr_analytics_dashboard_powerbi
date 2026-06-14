@@ -1,3 +1,5 @@
+📄 [Türkçe README için tıklayın](README_TR.md)
+
 # HR Analytics Dashboard | Power BI
 
 A multi-page Power BI report built on the IBM HR Analytics 
