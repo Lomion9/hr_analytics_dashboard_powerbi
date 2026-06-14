@@ -34,7 +34,22 @@ involvement, and estimated attrition cost analysis.
 - **High Risk Employee Table**: Actionable list of 127 employees 
   for immediate HR intervention
 - 3-page interactive dashboard with navigation
+  
+## Key Insights
 
+- Employees working overtime have an attrition rate of **30%**, 
+  3x higher than those who don't (**10%**)
+- Employees with no stock options show **25%** attrition rate, 
+  dropping to **5%** at stock option level 3
+- Employees who haven't been promoted in 6-10 years carry the 
+  highest attrition risk (**18%**)
+- Sales Representatives have the highest attrition rate of any 
+  job role (**40%**)
+- **60%** of employees with a risk score of 4 have left the 
+  company — validating the predictive power of the model
+- A total of **127 employees** fall into the high-risk category 
+  (score ≥ 3)
+  
 ## Tools Used
 
 - Power BI Desktop
