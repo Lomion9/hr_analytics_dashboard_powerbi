@@ -10,7 +10,7 @@ high-risk employees using a custom risk scoring model.
 Attrition analysis by job role, department, overtime, stock 
 option level, and years since last promotion.
 
-![Attrition Overview](images/attrition_overview.png)
+![Attrition Overview](HR1.png)
 
 ### 2. Employee Demographics
 Workforce profile analysis by age group, gender, department, 
