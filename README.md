@@ -1,10 +1,10 @@
-📄 [Türkçe README için tıklayın](README_TR.md)
-
 # HR Analytics Dashboard | Power BI
 
 A multi-page Power BI report built on the IBM HR Analytics 
 dataset. The goal is to analyze employee attrition and identify 
 high-risk employees using a custom risk scoring model.
+
+📄 [Türkçe README için tıklayın](README_TR.md)
 
 ## Pages
 
