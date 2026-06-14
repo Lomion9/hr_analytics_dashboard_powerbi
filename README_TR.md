@@ -35,6 +35,19 @@ bağlılığı ve tahmini attrition maliyeti analizi.
   alabileceği 127 çalışan listesi
 - 3 sayfalı interaktif navigasyon
 
+## Temel Bulgular
+
+- Fazla mesai yapan çalışanların attrition oranı (**%30**), 
+  yapmayanlara (**%10**) kıyasla 3 kat daha yüksek
+- Hisse senedi opsiyonu olmayan çalışanlarda attrition oranı 
+  **%25** iken, opsiyon seviyesi 3 olanlarda bu oran **%5**'e düşüyor
+- 6-10 yıl terfi alamamış çalışanlar en yüksek attrition riskini 
+  taşıyor (**%18**)
+- Sales Representative rolü en yüksek attrition oranına sahip (**%40**)
+- Risk skoru 4 olan çalışanların **%60**'ı şirketten ayrılmış — 
+  modelin tahmin gücünü doğruluyor
+- Toplam 127 çalışan yüksek risk (skor ≥ 3) kategorisinde
+
 ## Kullanılan Araçlar
 
 - Power BI Desktop
