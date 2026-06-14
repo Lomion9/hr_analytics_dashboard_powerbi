@@ -1,2 +1,44 @@
-# hr_analytics_dashboard_powerbi
-IBM HR Analytics Employee Attrition dataset üzerinde geliştirilmiş, özel risk skoru modeli içeren çok sayfalı Power BI dashboard projesi.
+# HR Analytics Dashboard | Power BI
+
+A multi-page Power BI report built on the IBM HR Analytics 
+dataset. The goal is to analyze employee attrition and identify 
+high-risk employees using a custom risk scoring model.
+
+## Pages
+
+### 1. Attrition Overview
+Attrition analysis by job role, department, overtime, stock 
+option level, and years since last promotion.
+
+![Attrition Overview](images/attrition_overview.png)
+
+### 2. Employee Demographics
+Workforce profile analysis by age group, gender, department, 
+and education field.
+
+![Employee Demographics](images/employee_demographics.png)
+
+### 3. Satisfaction & Risk Factors
+Combined risk score model, environment satisfaction, job 
+involvement, and estimated attrition cost analysis.
+
+![Satisfaction & Risk Factors](images/satisfaction_risk.png)
+
+## Key Features
+
+- **Risk Score Model**: Custom 0-4 risk score per employee 
+  (overtime, stock options, promotion history, job satisfaction)
+- **Estimated Attrition Cost**: $9.2M annual cost estimate
+- **High Risk Employee Table**: Actionable list of 127 employees 
+  for immediate HR intervention
+- 3-page interactive dashboard with navigation
+
+## Tools Used
+
+- Power BI Desktop
+- DAX
+- Power Query
+
+## Data Source
+
+IBM HR Analytics Employee Attrition Dataset — Kaggle
